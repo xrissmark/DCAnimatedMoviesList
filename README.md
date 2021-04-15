@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="right">
-  <a href="README.ptbr.md"> 🇧🇷 Para a versão em brasileiro, clique aqui! </a>
+  <a href="README.ptbr.md"> 🇧🇷 PT-BR </a>
 </p>
 <br />
 <p align="center">
