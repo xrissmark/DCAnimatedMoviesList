@@ -1,13 +1,14 @@
 <!-- HEADER -->
+<p align="right">
+  <a href="README.ptbr.md"> 🇧🇷 Para a versão em brasileiro, clique aqui! </a>
+</p>
 <br />
 <p align="center">
   <a><img src="images/dc-logo.png" alt="Logo" width="200" height="200"></a>
 
   <h1 align="center">Every DC Animated Movie Listed</h1>
 </p>
-<p align="left">
-  <a href="README.ptbr.md"> 🇧🇷 Para a versão em brasileiro, clique aqui! </a>
-</p>
+
 <!-- LIST -->
 <table align="center">
     <thead>
