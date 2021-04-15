@@ -1,5 +1,4 @@
-# DCAnimatedMoviesList
-Every DC animated movie listed
+# Every DC Animated Movie Listed
 
 01. Scooby-Doo Meets Batman (1972)
 02. Batman: Mask of the Phantasm (1993)
