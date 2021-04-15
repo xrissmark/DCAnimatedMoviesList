@@ -85,3 +85,9 @@
 | 81 |  Batman Vs. Teenage Mutant Ninja Turtles  | 2019 | 
 | 82 |  Wonder Woman: Bloodlines  | 2019 | 
 | 83 |  Batman: Hush  | 2019 | 
+| 84 |  Teen Titans Go! Vs. Teen Titans  | 2019 | 
+| 85 |  Wonder Woman: Bloodlines  | 2019 | 
+| 86 |  Superman: Red Son  | 2020 | 
+| 87 |  Justice League Dark: Apokolips War  | 2020 | 
+| 88 |  Superman: Man of Tomorrow  | 2020 | 
+| 89 |  Batman: Soul of the Dragon  | 2021 | 
