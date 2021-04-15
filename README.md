@@ -1,93 +1,467 @@
-# Every DC Animated Movie Listed
+<!-- HEADER -->
+<br />
+<p align="center">
+  <a><img src="images/dc-logo.png" alt="Logo" width="200" height="200"></a>
 
-|  #  |  Movie  |  Year  |
-| ------------------- | ------------------- | ------------------- |
-| 01 |  Scooby-Doo Meets Batman  | 1972 | 
-| 02 |  Batman: Mask of the Phantasm  | 1993 | 
-| 03 |  Superman - The Last Son of Krypton  | 1996 | 
-| 04 |  The Batman Superman Movie: World's Finest  | 1998 | 
-| 05 |  Batman & Mr. Freeze: Subzero  | 1998 | 
-| 06 |  Batman Beyond: The Movie  | 1999 | 
-| 07 |  Batman Beyond: Return of the Joker  | 2000 | 
-| 08 |  Batman: Mystery of the Batwoman  | 2003 | 
-| 09 |  The Batman Vs Dracula  | 2005 | 
-| 10 |  Superman: Brainiac Attacks  | 2006 | 
-| 11 |  Teen Titans: Trouble in Tokyo  | 2006 | 
-| 12 |  Superman: Doomsday  | 2007 | 
-| 13 |  Batman: Gotham Knight  | 2008 | 
-| 14 |  Justice League: The New Frontier  | 2008 | 
-| 15 |  Wonder Woman  | 2009 | 
-| 16 |  Green Lantern: First Flight  | 2009 | 
-| 17 |  Superman/Batman: Public Enemies  | 2009 | 
-| 18 |  Tales of the Black Freighter  | 2009 | 
-| 19 |  Batman: Under the Red Hood  | 2010 | 
-| 20 |  Superman/Batman: Apocalypse  | 2010 | 
-| 21 |  Justice League: Crisis on Two Earths  | 2010 | 
-| 22 |  DC Showcase: Green Arrow  | 2010 | 
-| 23 |  DC Showcase: The Spectre  | 2010 | 
-| 24 |  DC Showcase: Jonah Hex  | 2010 | 
-| 25 |  Superman/Shazam!: The Return of Black Adam  | 2010 | 
-| 26 |  DC Showcase Catwoman  | 2011 | 
-| 27 |  Batman: Year One  | 2011 | 
-| 28 |  Green Lantern: Emerald Knights  | 2011 | 
-| 29 |  All Star Superman  | 2011 | 
-| 30 |  Superman Vs. the Elite  | 2012 | 
-| 31 |  Justice League: Doom  | 2012 | 
-| 32 |  Batman: The Dark Knight Returns, Part 1  | 2012 | 
-| 33 |  Batman: The Dark Knight Returns, Part 2  | 2013 | 
-| 34 |  Justice League: The Flashpoint Paradox  | 2013 | 
-| 35 |  Lego Batman: The Movie - DC Super Heroes Unite  | 2013 | 
-| 36 |  Superman: Unbound  | 2013 | 
-| 37 |  LEGO DC Comics Super Heroes: Batman: Be-Leaguered  | 2014 | 
-| 38 |  Batman: Assault on Arkham  | 2014 | 
-| 39 |  JLA Adventures: Trapped in Time  | 2014 | 
-| 40 |  Justice League: War  | 2014 | 
-| 41 |  Son of Batman  | 2014 | 
-| 42 |  The Lego Movie  | 2014 | 
-| 43 |  Justice League: Throne of Atlantis  | 2015 | 
-| 44 |  Batman Vs. Robin  | 2015 | 
-| 45 |  Batman Unlimited: Animal Instincts  | 2015 | 
-| 46 |  Batman Unlimited: Monster Mayhem  | 2015 | 
-| 47 |  LEGO DC Comics Super Heroes: Justice League Vs. Bizarro League  | 2015 | 
-| 48 |  LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!  | 2015 | 
-| 49 |  Justice League: Gods and Monsters  | 2015 | 
-| 50 |  Batman Unlimited: Mechs Vs. Mutants  | 2016 | 
-| 51 |  Batman: Bad Blood  | 2016 | 
-| 52 |  Batman: Return of the Caped Crusaders  | 2016 | 
-| 53 |  Batman: The Killing Joke  | 2016 | 
-| 54 |  Justice League Vs. Teen Titans  | 2016 | 
-| 55 |  LEGO DC Comics Super Heroes: Justice League: Cosmic Clash  | 2016 | 
-| 56 |  LEGO DC Super Heroes: Justice League - Gotham City Breakout  | 2016 | 
-| 57 |  DC Super Hero Girls: Hero of the Year  | 2016 | 
-| 58 |  DC Super Hero Girls: Super Hero High  | 2016 | 
-| 59 |  Batman Vs. Two-Face  | 2017 | 
-| 60 |  DC Super Hero Girls: Intergalactic Games  | 2017 | 
-| 61 |  Justice League Dark  | 2017 | 
-| 62 |  Batman and Harley Quinn  | 2017 | 
-| 63 |  The Lego Batman Movie  | 2017 | 
-| 64 |  Vixen: The Movie  | 2017 | 
-| 65 |  Teen Titans: The Judas Contract  | 2017 | 
-| 66 |  LEGO DC Super Hero Girls: Brain Drain  | 2017 | 
-| 67 |  Batman: Gotham by Gaslight  | 2018 | 
-| 68 |  DC Super Hero Girls: Legends of Atlantis  | 2018 | 
-| 69 |  Lego DC Comics Super Heroes: The Flash  | 2018 | 
-| 70 |  Teen Titans Go! to the Movies  | 2018 | 
-| 71 |  LEGO DC Super Hero Girls: Super-Villain High  | 2018 | 
-| 72 |  Scooby-Doo! & Batman: The Brave and the Bold  | 2018 | 
-| 73 |  Batman Ninja  | 2018 | 
-| 74 |  Constantine: City of Demons - The Movie  | 2018 | 
-| 75 |  Suicide Squad: Hell to Pay  | 2018 | 
-| 76 |  LEGO DC Super Heroes - Aquaman: Rage of Atlantis  | 2018 | 
-| 77 |  The Death of Superman  | 2018 | 
-| 78 |  The Lego Movie 2: The Second Part  | 2019 | 
-| 79 |  Reign of the Supermen  | 2019 | 
-| 80 |  Justice League Vs. the Fatal Five  | 2019 | 
-| 81 |  Batman Vs. Teenage Mutant Ninja Turtles  | 2019 | 
-| 82 |  Wonder Woman: Bloodlines  | 2019 | 
-| 83 |  Batman: Hush  | 2019 | 
-| 84 |  Teen Titans Go! Vs. Teen Titans  | 2019 | 
-| 85 |  Wonder Woman: Bloodlines  | 2019 | 
-| 86 |  Superman: Red Son  | 2020 | 
-| 87 |  Justice League Dark: Apokolips War  | 2020 | 
-| 88 |  Superman: Man of Tomorrow  | 2020 | 
-| 89 |  Batman: Soul of the Dragon  | 2021 | 
+  <h1 align="center">Every DC Animated Movie Listed</h1>
+</p>
+<p align="left">
+  <a href="README.ptbr.md"> 🇧🇷 Para a versão em brasileiro, clique aqui! </a>
+</p>
+<!-- LIST -->
+<table align="center">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Movie</th>
+            <th>Year</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>01</td>
+            <td>Scooby-Doo Meets Batman</td>
+            <td>1972</td>
+        </tr>
+        <tr>
+            <td>02</td>
+            <td>Batman: Mask of the Phantasm</td>
+            <td>1993</td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>Superman - The Last Son of Krypton</td>
+            <td>1996</td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>The Batman Superman Movie: World&#39;s Finest</td>
+            <td>1998</td>
+        </tr>
+        <tr>
+            <td>05</td>
+            <td>Batman &amp; Mr. Freeze: Subzero</td>
+            <td>1998</td>
+        </tr>
+        <tr>
+            <td>06</td>
+            <td>Batman Beyond: The Movie</td>
+            <td>1999</td>
+        </tr>
+        <tr>
+            <td>07</td>
+            <td>Batman Beyond: Return of the Joker</td>
+            <td>2000</td>
+        </tr>
+        <tr>
+            <td>08</td>
+            <td>Batman: Mystery of the Batwoman</td>
+            <td>2003</td>
+        </tr>
+        <tr>
+            <td>09</td>
+            <td>The Batman Vs Dracula</td>
+            <td>2005</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Superman: Brainiac Attacks</td>
+            <td>2006</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Teen Titans: Trouble in Tokyo</td>
+            <td>2006</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Superman: Doomsday</td>
+            <td>2007</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Batman: Gotham Knight</td>
+            <td>2008</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Justice League: The New Frontier</td>
+            <td>2008</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Wonder Woman</td>
+            <td>2009</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Green Lantern: First Flight</td>
+            <td>2009</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Superman/Batman: Public Enemies</td>
+            <td>2009</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Tales of the Black Freighter</td>
+            <td>2009</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Batman: Under the Red Hood</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Superman/Batman: Apocalypse</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Justice League: Crisis on Two Earths</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>DC Showcase: Green Arrow</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>DC Showcase: The Spectre</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>DC Showcase: Jonah Hex</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Superman/Shazam!: The Return of Black Adam</td>
+            <td>2010</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>DC Showcase Catwoman</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>Batman: Year One</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>Green Lantern: Emerald Knights</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>All Star Superman</td>
+            <td>2011</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>Superman Vs. the Elite</td>
+            <td>2012</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>Justice League: Doom</td>
+            <td>2012</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>Batman: The Dark Knight Returns, Part 1</td>
+            <td>2012</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>Batman: The Dark Knight Returns, Part 2</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Justice League: The Flashpoint Paradox</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>Lego Batman: The Movie - DC Super Heroes Unite</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>Superman: Unbound</td>
+            <td>2013</td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>LEGO DC Comics Super Heroes: Batman: Be-Leaguered</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>Batman: Assault on Arkham</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>JLA Adventures: Trapped in Time</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>Justice League: War</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>Son of Batman</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>The Lego Movie</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Justice League: Throne of Atlantis</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Batman Vs. Robin</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>Batman Unlimited: Animal Instincts</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>Batman Unlimited: Monster Mayhem</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>LEGO DC Comics Super Heroes: Justice League Vs. Bizarro League</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>49</td>
+            <td>Justice League: Gods and Monsters</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td>Batman Unlimited: Mechs Vs. Mutants</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>51</td>
+            <td>Batman: Bad Blood</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>52</td>
+            <td>Batman: Return of the Caped Crusaders</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>53</td>
+            <td>Batman: The Killing Joke</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>54</td>
+            <td>Justice League Vs. Teen Titans</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>55</td>
+            <td>LEGO DC Comics Super Heroes: Justice League: Cosmic Clash</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>56</td>
+            <td>LEGO DC Super Heroes: Justice League - Gotham City Breakout</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>57</td>
+            <td>DC Super Hero Girls: Hero of the Year</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>58</td>
+            <td>DC Super Hero Girls: Super Hero High</td>
+            <td>2016</td>
+        </tr>
+        <tr>
+            <td>59</td>
+            <td>Batman Vs. Two-Face</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>60</td>
+            <td>DC Super Hero Girls: Intergalactic Games</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>61</td>
+            <td>Justice League Dark</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>62</td>
+            <td>Batman and Harley Quinn</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>63</td>
+            <td>The Lego Batman Movie</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>64</td>
+            <td>Vixen: The Movie</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>65</td>
+            <td>Teen Titans: The Judas Contract</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>66</td>
+            <td>LEGO DC Super Hero Girls: Brain Drain</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>67</td>
+            <td>Batman: Gotham by Gaslight</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>68</td>
+            <td>DC Super Hero Girls: Legends of Atlantis</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>69</td>
+            <td>Lego DC Comics Super Heroes: The Flash</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>70</td>
+            <td>Teen Titans Go! to the Movies</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>71</td>
+            <td>LEGO DC Super Hero Girls: Super-Villain High</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>72</td>
+            <td>Scooby-Doo! &amp; Batman: The Brave and the Bold</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>73</td>
+            <td>Batman Ninja</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>74</td>
+            <td>Constantine: City of Demons - The Movie</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>75</td>
+            <td>Suicide Squad: Hell to Pay</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>76</td>
+            <td>LEGO DC Super Heroes - Aquaman: Rage of Atlantis</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>77</td>
+            <td>The Death of Superman</td>
+            <td>2018</td>
+        </tr>
+        <tr>
+            <td>78</td>
+            <td>The Lego Movie 2: The Second Part</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>79</td>
+            <td>Reign of the Supermen</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>80</td>
+            <td>Justice League Vs. the Fatal Five</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>81</td>
+            <td>Batman Vs. Teenage Mutant Ninja Turtles</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>82</td>
+            <td>Wonder Woman: Bloodlines</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>83</td>
+            <td>Batman: Hush</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>84</td>
+            <td>Teen Titans Go! Vs. Teen Titans</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>85</td>
+            <td>Wonder Woman: Bloodlines</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>86</td>
+            <td>Superman: Red Son</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>87</td>
+            <td>Justice League Dark: Apokolips War</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>88</td>
+            <td>Superman: Man of Tomorrow</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>89</td>
+            <td>Batman: Soul of the Dragon</td>
+            <td>2021</td>
+        </tr>
+    </tbody>
+</table>
